@@ -32,14 +32,14 @@ $ npm start
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+Here's the Tech Stack that should be used to develop the application:
 
 * [NodeJS] - Framework to build web apps
 * [Express] - fast node.js network app framework [@tjholowaychuk]
 * [Mongoose] - Elegant mongodb object modeling for node.js
 * [Nodemon] - It starts automatically the server after changes you do!
 * [MongoDB] - NOSQL Database
-* [ReactJS] - Javascript library to 
+* [ReactJS] - Javascript library
 * [Redux] - It saves the state of the appplication, reduce server calls
 * [Styled Components] - Using CSS
 * [React Hooks] - HTML enhanced for web apps!
