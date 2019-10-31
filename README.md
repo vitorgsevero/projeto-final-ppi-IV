@@ -2,7 +2,7 @@
 
 The web application was created for manage an e-commerce operations.
 
-# How to start the application
+## How to start the application
 
 ### Installation
 
