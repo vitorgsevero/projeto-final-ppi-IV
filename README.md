@@ -6,7 +6,7 @@ The web application was created for manage an e-commerce operations.
 
 ### Installation
 
-This applcation requires [Node.js](https://nodejs.org/) and npm to run. Please install the dependencies and devDependencies and start the server.
+This application requires [Node.js](https://nodejs.org/) and npm to run. Please install the dependencies and devDependencies and start the server.
 
 #### Backend
 
