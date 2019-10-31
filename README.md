@@ -44,4 +44,4 @@ Dillinger uses a number of open source projects to work properly:
 * [Styled Components] - Using CSS
 * [React Hooks] - HTML enhanced for web apps!
 
-### Project built by Vítor Severo - © All rights reseverd.
+### Project built by Vítor Severo - © All rights reserved.
