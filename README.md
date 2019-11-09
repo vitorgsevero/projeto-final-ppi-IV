@@ -32,16 +32,22 @@ $ npm start
 
 ### Tech
 
-Here's the Tech Stack that should be used to develop the application:
+Here's the Tech Stack and some Modern Technologies used to develop the application:
 
 * [NodeJS] - Framework to build web apps
 * [Express] - fast node.js network app framework [@tjholowaychuk]
 * [Mongoose] - Elegant mongodb object modeling for node.js
 * [Nodemon] - It starts automatically the server after changes you do!
 * [MongoDB] - NOSQL Database
+* [Mongo-Atlas]
 * [ReactJS] - Javascript library
 * [Redux] - It saves the state of the appplication, reduce server calls
+* [ES6+Syntax] - New Javascript syntax
+* [Redux]
+* [Bcrypt] - Password hashing!
+* [JWT] - JSON Web Tokens
 * [Styled Components] - Using CSS
-* [React Hooks] - HTML enhanced for web apps!
+* [React Hooks]
+* [Heroku] -  Deploy to cloud! 
 
 ### Project built by Vítor Severo - © All rights reserved.
