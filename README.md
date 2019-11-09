@@ -1,6 +1,6 @@
 # My Fullstack Application
 
-The web application was created for manage an e-commerce operations.
+This web application is a Social Network for developers.
 
 ## How to start the application
 
