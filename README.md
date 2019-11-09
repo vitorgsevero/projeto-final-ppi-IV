@@ -1,4 +1,4 @@
-# My Fullstack Application
+# DevSocial
 
 This web application is a Social Network for developers.
 
