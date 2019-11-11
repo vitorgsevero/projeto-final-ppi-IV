@@ -11,7 +11,7 @@ This application requires [Node.js](https://nodejs.org/) and npm to run. Please 
 #### Backend
 
 ```sh
-$ cd my-app
+$ cd projeto-final-prog-para-internet-IV
 $ npm install
 $ npm run dev
 ```
@@ -22,7 +22,7 @@ $ npm run dev
 #### Frontend
 
 ```sh
-$ cd my-app
+$ cd projeto-final-prog-para-internet-IV
 $ npm install
 $ npm start
 ```
