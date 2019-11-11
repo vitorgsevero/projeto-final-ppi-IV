@@ -43,7 +43,7 @@ Here's the Tech Stack and some Modern Technologies used to develop the applicati
 * [ReactJS] - Javascript library
 * [Redux] - It saves the state of the appplication, reduce server calls
 * [ES6+Syntax] - New Javascript syntax
-* [Redux]
+* [Redux] - To manage the state of the application
 * [Bcrypt] - Password hashing!
 * [JWT] - JSON Web Tokens
 * [Styled Components] - Using CSS
