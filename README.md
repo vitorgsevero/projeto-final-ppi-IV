@@ -39,8 +39,8 @@ Here's the Tech Stack and some Modern Technologies used to develop the applicati
 * [Mongoose] - Elegant mongodb object modeling for node.js
 * [Nodemon] - It starts automatically the server after changes you do!
 * [MongoDB] - NOSQL Database
-* [Mongo-Atlas]
-* [ReactJS] - Javascript library
+* [Mongo-Atlas] - Cluster created to hold the database application
+* [ReactJS] - Javascript library based in components
 * [Redux] - It saves the state of the appplication, reduce server calls
 * [ES6+Syntax] - New Javascript syntax
 * [Redux] - To manage the state of the application
