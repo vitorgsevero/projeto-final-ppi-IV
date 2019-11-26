@@ -13,7 +13,7 @@ This application requires [Node.js](https://nodejs.org/) and npm to run. Please 
 ```sh
 $ cd projeto-final-prog-para-internet-IV
 $ npm install
-$ npm run dev
+$ npm run server
 ```
   - Change the directory for install all the dependencies
   - Run npm install in terminal at the backend folder
@@ -25,11 +25,18 @@ $ npm run dev
 $ cd projeto-final-prog-para-internet-IV
 $ cd client
 $ npm install
-$ npm start
+$ npm run client
 ```
   - Change the directory for install all the dependencies
   - Run npm install in terminal at the front folder
   - Run npm start to start the application at the client-side
+  
+  
+ ### Important: To run all the application with concurrently, you should just try:
+ 
+```sh
+$ npm run dev
+```
 
 ### Tech
 
