@@ -20,7 +20,7 @@ const Register = ({ setAlert }) => {
   const onSubmit = async e => {
     e.preventDefault();
     if (password !== password2) {
-      props.setAlert('Password do not match', 'danger');
+      setAlert('Password do not match', 'danger');
     } else {
       console.log('SUCCESS');
     }
@@ -65,6 +65,7 @@ const Register = ({ setAlert }) => {
             value={password}
             onChange={e => onChange(e)}
             minlength='6'
+            required
           />
         </div>
         <div className='form-group'>
@@ -75,6 +76,7 @@ const Register = ({ setAlert }) => {
             value={password2}
             onChange={e => onChange(e)}
             minlength='6'
+            required
           />
         </div>
         <input type='submit' className='btn btn-primary' value='Register' />
