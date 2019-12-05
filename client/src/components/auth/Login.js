@@ -20,7 +20,6 @@ const Login = ({ login, isAuthenticated }) => {
     login(email, password);
   };
 
-  //Redirect if logged in
   if (isAuthenticated) {
     return <Redirect to='/dashboard' />;
   }
@@ -29,7 +28,7 @@ const Login = ({ login, isAuthenticated }) => {
     <Fragment>
       <h1 className='large text-primary'>Sign In</h1>
       <p className='lead'>
-        <i className='fas fa-user'></i> Sign Into Your Account
+        <i className='fas fa-user' /> Sign Into Your Account
       </p>
       <form className='form' onSubmit={e => onSubmit(e)}>
         <div className='form-group'>
@@ -49,10 +48,9 @@ const Login = ({ login, isAuthenticated }) => {
             name='password'
             value={password}
             onChange={e => onChange(e)}
-            minlength='6'
+            minLength='6'
           />
         </div>
-
         <input type='submit' className='btn btn-primary' value='Login' />
       </form>
       <p className='my-1'>
@@ -71,4 +69,7 @@ const mapStateToProps = state => ({
   isAuthenticated: state.auth.isAuthenticated
 });
 
-export default connect(mapStateToProps, { login })(Login);
+export default connect(
+  mapStateToProps,
+  { login }
+)(Login);
