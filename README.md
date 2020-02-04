@@ -55,7 +55,6 @@ Here's the Tech Stack and some Modern Technologies used to develop the applicati
 * [Bcrypt] - Password hashing!
 * [JWT] - JSON Web Tokens
 * [Styled Components] - Using CSS
-* [React Hooks]
 * [Heroku] -  Deploy to cloud! 
 
 
