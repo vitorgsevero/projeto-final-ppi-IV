@@ -27,7 +27,7 @@ $ cd client
 $ npm install
 $ npm run client
 ```
-  - Change the directory for install all the dependencies
+  - Change the directory to install all the dependencies
   - Run npm install in terminal at the front folder
   - Run npm start to start the application at the client-side
   
