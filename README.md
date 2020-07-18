@@ -1,5 +1,7 @@
 # DevSocial
 
+![Actions Status - Build status](https://github.com/vitorgsevero/projeto-final-prog-para-internet/workflows/Node.js%20Package/badge.svg)
+
 This web application is a Social Network for developers.
 
 ## How to start the application
