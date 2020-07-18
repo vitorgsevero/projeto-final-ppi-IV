@@ -1,6 +1,7 @@
 # DevSocial
 
-![Actions Status - Build status](https://github.com/vitorgsevero/projeto-final-prog-para-internet/workflows/Node.js%20Package/badge.svg)
+![Actions Status - Build status](https://github.com/vitorgsevero/projeto-final-prog-para-internet-IV/workflows/Node.js%20Package/badge.svg)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 This web application is a Social Network for developers.
 
